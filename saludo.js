@@ -1,4 +1,5 @@
 const nombre = "wilker"
-const saludo = `Hola ${nombre}, como estas?`
+const apellido = "vivas"
+const saludo = `Hola ${nombre} ${apellido}, como estas?`
 
 console.log(saludo)
